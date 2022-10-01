@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "scripts": {
+        "prettier:check": "prettier --check .",
+        "prettier:write": "prettier --write ."
+    },
+    "prettier": "@pyk/prettier-config",
+    "devDependencies": {
+        "@pyk/prettier-config": "1.0.1",
+        "prettier": "2.7.1"
+    }
+}

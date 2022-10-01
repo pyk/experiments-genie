@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@pyk/prettier-config': 1.0.1
+  prettier: 2.7.1
+
+devDependencies:
+  '@pyk/prettier-config': 1.0.1
+  prettier: 2.7.1
+
+packages:
+
+  /@pyk/prettier-config/1.0.1:
+    resolution: {integrity: sha512-O1JuSLPj3bcv+GbAzO1XL5abLDoDy0xvo/V4dkahpRdgvrxl7auYdBFSSDBfjLY0GOJVhHcqfYFazrU9AO6D/A==}
+    dev: true
+
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true
